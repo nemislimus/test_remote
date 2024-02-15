@@ -1,3 +1,4 @@
 First file to commit
 new info in file for commit
 Second commit
+Conflict line
