@@ -4,3 +4,4 @@ Second commit
 Conflict line
 conflict line in second_branch
 
+строку делаем в основном репо, потом пушим её на удалённый, а с него пуллим в клон удалённого - проверяем!
